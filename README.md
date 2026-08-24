@@ -10,3 +10,4 @@
     - ms-python.debugpy
     - ms-python.vscode-pylance
     - ms-python.vscode-python-envs
+- ollama.ollama

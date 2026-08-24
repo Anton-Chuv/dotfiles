@@ -1,9 +1,14 @@
+
 {
-    "chat.disableAIFeatures": true,
     "window.autoDetectColorScheme": true,
     "workbench.sideBar.location": "right",
+    "editor.fontSize": 16,
+    "chat.byokUtilityModelDefault": "mainAgent",
+    "chat.titleBar.signIn.enabled": false,
+    "chat.titleBar.openInAgentsWindow.enabled": false,
+    "window.restoreWindows": "none",
+    "workbench.startupEditor": "none",
     "terminal.integrated.initialHint": false,
-    "workbench.startupEditor": "welcomePageInEmptyWorkbench",
-    "workbench.editor.restoreEditors": false,
-    "editor.fontSize": 16
+    "workbench.editor.empty.hint": "hidden",
+    "chat.newSession.defaultMode": "ask",
 }
