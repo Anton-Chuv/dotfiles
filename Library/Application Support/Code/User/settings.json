@@ -12,4 +12,5 @@
     "workbench.editor.empty.hint": "hidden",
     "chat.newSession.defaultMode": "ask",
     "git.autofetch": true,
+    "python.analysis.typeCheckingMode": "basic",
 }
