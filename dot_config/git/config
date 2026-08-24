@@ -1,0 +1,12 @@
+[user]
+	name = Anton Chuv
+	email = 73758803+Anton-Chuv@users.noreply.github.com
+[init]
+	defaultBranch = main
+[core]
+	excludesfile = ~/.config/git/gitignore_global
+	editor = gram --wait
+[format]
+	pretty = %h %ad | %s%d [%an]
+[log]
+	date = short

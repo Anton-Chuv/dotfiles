@@ -1,0 +1,9 @@
+{
+    "chat.disableAIFeatures": true,
+    "window.autoDetectColorScheme": true,
+    "workbench.sideBar.location": "right",
+    "terminal.integrated.initialHint": false,
+    "workbench.startupEditor": "welcomePageInEmptyWorkbench",
+    "workbench.editor.restoreEditors": false,
+    "editor.fontSize": 16
+}
