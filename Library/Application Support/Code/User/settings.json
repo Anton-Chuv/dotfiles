@@ -1,8 +1,8 @@
-
 {
     "window.autoDetectColorScheme": true,
     "workbench.sideBar.location": "right",
-    "editor.fontSize": 16,
+    "editor.fontSize": 18,
+    "terminal.integrated.fontSize": 16,
     "chat.byokUtilityModelDefault": "mainAgent",
     "chat.titleBar.signIn.enabled": false,
     "chat.titleBar.openInAgentsWindow.enabled": false,
@@ -11,6 +11,13 @@
     "terminal.integrated.initialHint": false,
     "workbench.editor.empty.hint": "hidden",
     "chat.newSession.defaultMode": "ask",
-    "git.autofetch": true,
+    // "git.autofetch": true,
     "python.analysis.typeCheckingMode": "basic",
+    "editor.fontFamily": "Iosevka, Menlo, Monaco, 'Courier New', monospace",
+    "editor.wordWrap": "bounded",
+    "workbench.preferredLightColorTheme": "Catppuccin Latte",
+    "workbench.preferredDarkColorTheme": "Catppuccin Mocha",
+    "workbench.iconTheme": "catppuccin-mocha",
+    "catppuccin.accentColor": "blue",
+    "catppuccin-icons.hidesExplorerArrows": true,
 }
