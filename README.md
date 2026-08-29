@@ -11,3 +11,5 @@
     - ms-python.vscode-pylance
     - ms-python.vscode-python-envs
 - ollama.ollama
+- catppuccin.catppuccin-vsc
+- catppuccin.catppuccin-vsc-icons

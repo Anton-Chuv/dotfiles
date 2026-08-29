@@ -20,4 +20,5 @@
     "workbench.iconTheme": "catppuccin-mocha",
     "catppuccin.accentColor": "blue",
     "catppuccin-icons.hidesExplorerArrows": true,
+    "git.blame.editorDecoration.enabled": true,
 }
