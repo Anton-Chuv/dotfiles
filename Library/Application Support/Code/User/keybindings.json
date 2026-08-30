@@ -14,5 +14,9 @@
         "key": "shift+cmd+i",
         "command": "-workbench.action.chat.openagent",
         "when": "config.chat.agent.enabled && !chatSetupDisabledInWorkspace && !chatSetupHidden"
-    }
+    },
+    {
+    "key": "shift+cmd+j",
+    "command": "workbench.action.toggleMaximizedPanel",
+    },
 ]
