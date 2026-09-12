@@ -2,13 +2,7 @@
 [
     {
         "key": "shift+cmd+i",
-        "command": "workbench.action.chat.open",
-        "when": "!chatSetupDisabledInWorkspace && !chatSetupHidden"
-    },
-    {
-        "key": "ctrl+cmd+i",
-        "command": "-workbench.action.chat.open",
-        "when": "!chatSetupDisabledInWorkspace && !chatSetupHidden"
+        "command": "workbench.action.chat.openask"
     },
     {
         "key": "shift+cmd+i",

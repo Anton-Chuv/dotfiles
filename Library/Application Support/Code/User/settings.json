@@ -1,6 +1,5 @@
 {
     "window.autoDetectColorScheme": true,
-    "workbench.sideBar.location": "right",
     "editor.fontSize": 18,
     "terminal.integrated.fontSize": 16,
     "chat.byokUtilityModelDefault": "mainAgent",
@@ -11,7 +10,7 @@
     "terminal.integrated.initialHint": false,
     "workbench.editor.empty.hint": "hidden",
     "chat.newSession.defaultMode": "ask",
-    // "git.autofetch": true,
+    "git.autofetch": true, // "git.autofetch": false,
     "python.analysis.typeCheckingMode": "basic",
     "editor.fontFamily": "Iosevka, Menlo, Monaco, 'Courier New', monospace",
     "editor.wordWrap": "bounded",
