@@ -20,4 +20,8 @@
     "catppuccin.accentColor": "blue",
     "catppuccin-icons.hidesExplorerArrows": true,
     "git.blame.editorDecoration.enabled": true,
+    "dictation.enabled": false,
+    "workbench.editorAssociations": {
+        "*.md": "vscode.markdown.editor"
+    },
 }

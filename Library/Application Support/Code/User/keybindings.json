@@ -10,7 +10,7 @@
         "when": "config.chat.agent.enabled && !chatSetupDisabledInWorkspace && !chatSetupHidden"
     },
     {
-    "key": "shift+cmd+j",
-    "command": "workbench.action.toggleMaximizedPanel",
+        "key": "shift+cmd+j",
+        "command": "workbench.action.toggleMaximizedPanel",
     },
 ]
