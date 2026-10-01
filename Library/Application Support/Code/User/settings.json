@@ -1,7 +1,7 @@
 {
     "window.autoDetectColorScheme": true,
-    "editor.fontSize": 18,
-    "terminal.integrated.fontSize": 16,
+    "editor.fontSize": 15,
+    "terminal.integrated.fontSize": 15,
     "chat.byokUtilityModelDefault": "mainAgent",
     "chat.titleBar.signIn.enabled": false,
     "chat.titleBar.openInAgentsWindow.enabled": false,
@@ -16,12 +16,13 @@
     "editor.wordWrap": "bounded",
     "workbench.preferredLightColorTheme": "Catppuccin Latte",
     "workbench.preferredDarkColorTheme": "Catppuccin Mocha",
-    "workbench.iconTheme": "catppuccin-mocha",
     "catppuccin.accentColor": "blue",
     "catppuccin-icons.hidesExplorerArrows": true,
     "git.blame.editorDecoration.enabled": true,
+    "workbench.iconTheme": "catppuccin-mocha",
     "dictation.enabled": false,
     "workbench.editorAssociations": {
         "*.md": "vscode.markdown.editor"
     },
+    "zenMode.fullScreen": false
 }

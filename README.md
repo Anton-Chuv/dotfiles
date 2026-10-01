@@ -13,3 +13,5 @@
 - ollama.ollama
 - catppuccin.catppuccin-vsc
 - catppuccin.catppuccin-vsc-icons
+
+- paulober.pico-w-go
