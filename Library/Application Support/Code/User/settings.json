@@ -24,5 +24,6 @@
     "workbench.editorAssociations": {
         "*.md": "vscode.markdown.editor"
     },
-    "zenMode.fullScreen": false
+    "zenMode.fullScreen": false,
+    "window.density.layout": "compact"
 }
